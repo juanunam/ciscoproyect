@@ -1,4 +1,6 @@
 # Segmentacion de mercado con machine learning
+Presentacion
+https://docs.google.com/presentation/d/1IK83ViTiV66Ev1qU0HvH1MIL-YZMYXz71Fk6JEK8v_g/edit?usp=sharing
 
 Utilizacion de kmeans machine learning y randomforest para clasificar trafico
 https://github.com/juanunam/ciscoproyect/blob/master/Propuesta%20de%20funcionamiento%20de%20modelo.ipynb
