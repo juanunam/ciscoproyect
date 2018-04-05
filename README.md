@@ -11,3 +11,12 @@ Una sugerencia es usar el dockerf
 
 Modelo persistido:
 model.persisted
+
+
+Herramienta para correr notebook
+sudo docker run -v /data:/data -v ~/:/home/jovyan/work -p 8888:8888 jupyter/all-spark-notebook
+
+Herramienta para probar applicacion
+
+LAMP
+
