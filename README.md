@@ -8,3 +8,6 @@ https://github.com/juanunam/ciscoproyect/blob/master/Propuesta%20de%20funcionami
 
 Se debe de correr en un ambiente Jupyter con Pandas y ScikitLearn de Python
 Una sugerencia es usar el dockerf
+
+Modelo persistido:
+model.persisted
