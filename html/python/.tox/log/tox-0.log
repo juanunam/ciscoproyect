@@ -1,0 +1,18 @@
+actionid: tox
+msg: packaging
+cmdargs: ['/usr/bin/python3.5', local('/home/juan/Documentos/talent_land/ciscoproyect/html/python/setup.py'), 'sdist', '--formats=zip', '--dist-dir', local('/home/juan/Documentos/talent_land/ciscoproyect/html/python/.tox/dist')]
+
+running sdist
+running check
+warning: sdist: manifest template 'MANIFEST.in' does not exist (using default file list)
+
+warning: sdist: standard file not found: should have one of README, README.txt
+
+writing manifest file 'MANIFEST'
+creating Perfilador-1.0
+making hard links in Perfilador-1.0...
+hard linking setup.py -> Perfilador-1.0
+creating '.tox/dist/Perfilador-1.0.zip' and adding 'Perfilador-1.0' to it
+adding 'Perfilador-1.0/PKG-INFO'
+adding 'Perfilador-1.0/setup.py'
+removing 'Perfilador-1.0' (and everything under it)

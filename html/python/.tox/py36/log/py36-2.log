@@ -1,0 +1,12 @@
+actionid: py36
+msg: installpkg
+cmdargs: ['/home/juan/Documentos/talent_land/ciscoproyect/html/python/.tox/py36/bin/pip', 'install', '/home/juan/Documentos/talent_land/ciscoproyect/html/python/.tox/dist/Perfilador-1.0.zip']
+
+Processing ./.tox/dist/Perfilador-1.0.zip
+Building wheels for collected packages: Perfilador
+  Running setup.py bdist_wheel for Perfilador: started
+  Running setup.py bdist_wheel for Perfilador: finished with status 'done'
+  Stored in directory: /home/juan/.cache/pip/wheels/22/ba/7e/1524fc8eaa0c80734d612e993f8ad3bd5cf2a59742a2fb6be8
+Successfully built Perfilador
+Installing collected packages: Perfilador
+Successfully installed Perfilador-1.0

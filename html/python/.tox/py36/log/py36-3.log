@@ -1,0 +1,12 @@
+actionid: py36
+msg: envreport
+cmdargs: ['/home/juan/Documentos/talent_land/ciscoproyect/html/python/.tox/py36/bin/pip', 'freeze']
+
+numpy==1.14.2
+pandas==0.22.0
+Perfilador==1.0
+python-dateutil==2.7.2
+pytz==2018.3
+scikit-learn==0.19.1
+scipy==1.0.1
+six==1.11.0
